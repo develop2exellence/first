@@ -1,0 +1,30 @@
+https://software.intel.com/en-us/xdk/videos/getting-started-with-the-intel-xdk
+ssyoutube.com/watch?v=HGFLyIPzK0Ahttps://www.youtube.com/watch?v=HGFLyIPzK0A
+http://www.the-grain.co.za/#gbx2082672713
+ 
+https://drive.google.com/drive/folders/0B-6wHyFkhX7GcGxfOThIYm9UQ2c
+
+https://www.youtube.com/watch?v=HGFLyIPzK0A
+
+https://www.youtube.com/watch?v=NLJUQKOMIJg
+
+Ayesiri@40
+
+https://software.intel.com/en-us/forums/intel-xdk
+
+http://www.google.com
+
+<!DOCTYPE html>
+<html>
+<head>
+
+  <title>jQuery Mobile page</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="css/themes/my-custom-theme.css" />
+  <link rel="stylesheet" href="css/themes/jquery.mobile.icons.min.css" />
+  <link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.5/jquery.mobile.structure-1.4.5.min.css" /> 
+  <script src="http://code.jquery.com/jquery-1.11.1.min.js"></script> 
+  <script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script> 
+
+</head>
